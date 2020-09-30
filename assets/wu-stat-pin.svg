@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="64px" viewBox="0 0 48 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>Pin</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 47.554 0 47.554 63.9996 0 63.9996"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-full-page-desktop" transform="translate(-336.000000, -1038.000000)">
+            <g id="Section-1-Module" transform="translate(125.000000, 750.000000)">
+                <g id="Group-22" transform="translate(105.000000, 288.000000)">
+                    <g id="Pin" transform="translate(106.000000, 0.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M23.783,38.5146 C15.623,38.5146 9.017,31.9086 9.017,23.7596 C9.017,15.6116 15.623,9.0056 23.783,9.0056 C31.931,9.0056 38.537,15.6116 38.537,23.7596 C38.537,31.9086 31.931,38.5146 23.783,38.5146 M23.771,-0.0004 C10.64,-0.0004 0,10.6396 0,23.7836 C0,47.5546 23.771,63.9996 23.771,63.9996 C23.771,63.9996 47.554,47.5546 47.554,23.7836 C47.554,10.6396 36.914,-0.0004 23.771,-0.0004" id="Fill-1" fill="#00C8C3" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
